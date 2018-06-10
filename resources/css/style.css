@@ -37,3 +37,12 @@ h1 {
   font-size: 23px;
   font-weight: bold;
 }
+
+.footer {
+  display: block;
+  background-color: dimgray;
+  text-align: left;
+}
+.Br {
+  color: white;
+}
