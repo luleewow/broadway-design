@@ -17,6 +17,7 @@ h1 {
 .btn-nav {
   color: white;
   font-size: 18px;
+  font-weight: bold;
 }
 .pr {
   font-weight: bold;
@@ -27,7 +28,7 @@ h1 {
   font-size: 23px;
   font-weight: bold;
 }
-.par1 {
+.ps {
   font-size: 14px;
 }
 
